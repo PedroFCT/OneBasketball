@@ -64,4 +64,9 @@ public class CadastroDePartidasController {
             _cadastroDePartidas.setTresPontos_equipe2(cadastroDePartidas.getTresPontos_equipe2());
             _cadastroDePartidas.setDoisPontos_equipe1(cadastroDePartidas.getDoisPontos_equipe1());
             _cadastroDePartidas.setDoisPontos_equipe2(cadastroDePartidas.getDoisPontos_equipe2());
+        }
+
+    }
+
+}
            
